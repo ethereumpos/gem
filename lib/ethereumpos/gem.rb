@@ -1,7 +1,15 @@
 require "ethereumpos/gem/version"
+require "ethereumpos/configuration"
+require "ethereumpos/order"
 
 module Ethereumpos
   module Gem
-    # Your code goes here...
+
+
+    def self.version
+      return 1
+    end
+
+
   end
 end
