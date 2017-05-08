@@ -1,8 +1,6 @@
-# Ethereumpos::Gem
+# Ethereum Point of Sale Gem
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ethereumpos/gem`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+EthereumPOS is a Point of Sale system for merchants and developers who want to accept Ethereum on their website or application. Using Ethereum blockchain you'll be able to confirm transactions quicker than with the bloat of the Bitcoin blockchain. EthereumPOS allows online shopping carts and applications to receive a callback to confirm the customer paid in full.
 
 ## Installation
 
